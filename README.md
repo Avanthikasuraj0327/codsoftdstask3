@@ -40,7 +40,6 @@ The Logistic Regression model achieved an accuracy of 100% on the test set. Belo
       setosa       1.00      1.00      1.00        19
   versicolor       1.00      1.00      1.00        13
    virginica       1.00      1.00      1.00        13
-
     accuracy                           1.00        45
    macro avg       1.00      1.00      1.00        45
 weighted avg       1.00      1.00      1.00        45
