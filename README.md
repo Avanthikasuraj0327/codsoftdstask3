@@ -35,11 +35,13 @@ The project uses a Logistic Regression model to classify the iris flowers. The m
 ## Results
 The Logistic Regression model achieved an accuracy of 100% on the test set. Below is the detailed classification report:
 
-              precision    recall  f1-score   support
+                            precision    recall  f1-score   support
 
       setosa       1.00      1.00      1.00        19
   versicolor       1.00      1.00      1.00        13
    virginica       1.00      1.00      1.00        13
+
     accuracy                           1.00        45
    macro avg       1.00      1.00      1.00        45
 weighted avg       1.00      1.00      1.00        45
+
